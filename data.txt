@@ -84,3 +84,293 @@ How many milligrams of nitrogen are biologically fixed every year?
 17
 The probability of winning the Powerball lotto is 1/292,201,338 per play. How many dollars would you have to spend to buy enough tickets so that you are more likely to have won the powerball 10 times in a row than to not have won 10 times in a row?
 85
+What is the wingspan of the largest gull species, the great black-backed gull, in angstroms?
+10
+How long is the egg incubation time of a gull, in days?
+1
+In the time that Laridae, the family of seabirds including gulls, have existed on Earth, how many kilometers could an immortal seagull travel, flying nonstop at its top speed?
+13
+How many birds live on Earth?
+10
+How many bird species are there?
+4
+If all of the polar bears on Earth fought all of the penguins on Earth, how many penguins would each polar bear have to take down for there to be no penguins left at the end of the battle?
+3
+How much has seabird poop been estimated to be worth annually, in dollars?
+9
+If you laid out all the toilet paper bought by New York City (the city government, not the population) in a year, how long would the line be, in kilometers?
+5
+How many toilet paper squares would be needed to cover the entirety of the U.S.interstate highway system?
+12
+How large is the annual revenue of Charmin Ultra Soft, expressed in terms of the annual GDP of Tuvalu?
+1
+How many olympic-sized swimming pools could be filled by all the water used annually to produce toilet paper in the U.S.?
+6
+If all the energy used annually to produce toilet paper in the U.S. was used to power a Tesla Model 3, how far, in kilometers, could it go?
+11
+Suppose you tp Beyoncé and Jay-Z’s 200 million dollar mansion. How much will you get charged by the state of California for (the felony form of) vandalism in USD?
+5
+What was Live Nation Entertainment’s concert revenue in 2022?
+10
+How many notes are played by the pianist in Rachmaninoff’s third piano concerto?
+4
+How many times does the letter “a” appear in the 1605 novel Don Quixote?
+5
+How many seconds long are the complete works of Ludwig van Beethoven?
+5
+How many words are on the Wikipedia page for “Trombone”?
+4
+How many horses’ worth of blood could the surviving Stradivarius violins today store?
+1
+How many more units did the video game Metal Gear Solid (1998) sell than Deus Ex (2000) by 2001?
+7
+Between 2019 and 2020, by how much USD did the revenue of the North American box office fall?
+10
+How many lightning strikes occur in Florida every year?
+6
+How many ash trees in North America are threatened by the invasive emerald ash borer?
+10
+How many hectares of land in Australia are arable?
+7
+How many kilojoules are in 100 grams of black walnuts?
+3
+How many Saturns could fit into Earth’s moon?
+-5
+What is the size of the Maldives in square centimeters?
+12
+According to present scientific consensus, how many species of fish are there on Earth?
+4
+What year (AD) did Constantine become the new seat of the government in the Roman Empire?
+2
+How many minutes have you lived?
+7
+The 1936 Berlin Olympics Stadium was later used as a bunker by Nazis during WWII. How many people could it hold?
+5
+How many standing lighthouses remain in America?
+3
+Consider the amount of time that Steam users logged in 2020 playing video games. If Joel spends that entire amount of time calculating the digits of pi, given the formula of the average time to calculate the nth digit of pi in weeks = n^(1/2), how many digits would he manage to calculate? (He’s not the fastest at calculating these digits).
+6
+How many more bicycles are in China than in London?
+8
+As of 2021, how many answers have been provided on Stack Overflow, the largest coding Q&A site?
+7
+What is the 100th Fibonacci number?
+20
+How many happy numbers occur from 0 to 1,000,000? A happy number is defined as one where by continuously summing the squares of the digits, one eventually arrives at For example, 13 is happy, because 1^2 + 3^2 = 10, and 1^2 + 0^2 = 1. Assume base 10.
+5
+How many full size computer keyboards would it take to match every key from every keyboard to a key for every house in the US?
+6
+How many hydrogen atoms would be in a sphere of water the size of the moon?
+24
+How many standard water bottles’ worth of liquid would it take to fill up Lake Mead to full capacity?
+14
+What is 20 * 69!
+99
+What would be the mass of a planet, in Daltons, the same size as Earth which generates 4g of gravity?
+52
+How many M&M’s would it take to recoup the cumulative energy used by all the marathon runners in this year’s Boston marathon?
+7
+How much dissolved oxygen, in nanograms, is present in enough tap water to cover Manhattan 1 meter deep?
+17
+How many red blood cells would fit inside the Sun?
+43
+Recall that an electron needs energy to move from one energy level to another in an atom. How many leaps from the ground state to the first excited state of an electron in a neutral hydrogen atom could be powered by the energy usage of an average US household?
+28
+How many centaurs would span the distance from Earth to Proxima Centauri, assuming that centaurs would be the same size as a horse?
+16
+How many seconds apart were the completion of the Pyramid of Giza and the Colosseum?
+11
+How long, in decades, would it take for light to complete the famous Cannonball Run challenge (Red Ball Garage in NY to Portofino Hotel in LA)?
+-11
+What is the major axis diameter of Neptune’s orbit in picas?
+20
+How many Interstate highway dashed lines would it take to connect K2 to Mauna Kea?
+6
+How many individual doses of the COVID-19 booster vaccine would be needed to create a column of liquid that is 5 m in diameter to the ISS?
+13
+How long is the longest aircraft carrier in buckyballs (buckminsterfullerene)?
+11
+How many wavelengths of violet visible light exist between the Sun and Neptune, at their average distance apart?
+24
+If all corn produced yearly worldwide were distributed equally to all the blue whales on Earth, how much would each blue whale weigh, in lb, carrying their assigned amount of corn?
+8
+How long, in Planck time, would it take to move across the length of the universe at the speed of light?
+61
+How many centuries would it take for Usain Bolt to run a light-second while running at his 100m world record pace?
+-2
+If everyone in the world were to stand side-by-side (shoulder to shoulder with no gaps) to form a circle, what would be the diameter of the circle, in human hairs?
+16
+How many leagues under the sea is the center of the Earth?
+3
+How heavy is the combined weight of the UGA football team, in cricket balls?
+5
+How many houseflies’ worth of lift would you need to lift a school bus?
+9
+How much paraffin wax, in oz, would be needed to power a hot air balloon for a week (ignore the energy needed to carry the weight of the wax itself)?
+5
+How many Earths, placed side-by-side, would it take to stretch across the Milky Way Galaxy?
+14
+How many volleyballs would fit in Lake Erie?
+14
+What is 7^17?
+14
+What is 13^46?
+51
+How many total legs would there be in a great hundred dogs plus a score of cats?
+3
+How many honey bees are there in the world?
+12
+How long, in minutes, would it take the average person to type Shakespeare’s Romeo and Juliet?
+3
+How many days ago did John Hancock “John Hancock” the Declaration of Independence?
+5
+If the entire US population stood in a socially-distanced line, howmany millimeters would it stretch?
+12
+What is the land area of Earth in hectares?
+7
+How many runs have been scored in the history of Major League Baseball?
+6
+How many grains of rice are in a 10 kilogram bag of rice?
+5
+What are the odds of getting heads on 12 consecutive flips of astandard quarter?
+-4
+How many Earths does a single water molecule weigh?
+-51
+How tall was Robert Pershing Wadlow, the tallest known human inhistory, in attometers?
+18
+What is the weight of an average male Asian elephant, measured in average adult American men?
+2
+If every fish on earth was being hunted by every cat on earth, how many cats would there be per fish?
+-4
+How many text characters are in the content pages of Wikipedia?
+10
+How much electricity was used globally in 2022, in picojoules?
+32
+How many regular M&Ms would fit inside the sun? Assume the M&Ms do not melt or stick together.
+27
+How many standard lab goggles would it take to equal the weight of a full-grown adult blue whale?
+6
+How many grains of sand are there on the beaches and deserts on Earth?
+19
+How many days would it take Usain Bolt to run the average distance from the Earth to the moon and back, assuming he runs continuously and at world-record pace the entire time?
+3
+What is the brightness of the sun, in lumens?
+28
+How many fortnights ago did dinosaurs become extinct?
+9
+How many replacement passenger automobile tires are sold in the US every year?
+8
+How many faces are there on a rhombicosidodecahedron?
+2
+How many standard Oreos placed flat, side by side, would it take to circle the earth at the equator?
+9
+How many pizzas are ordered in the US every year on Super Bowl Sunday?
+7
+How long would it take a person walking at average human walking speed to travel the distance from NYC to LA?
+3
+How much water goes over Niagara Falls every year, in teraliters?
+2
+What is 78^42?
+79
+What is the annual revenue (in USD) of Cracker Barrel in 2022?
+9
+How many Google searches are done every day?
+10
+About how many pounds of corn are grown and harvested in Indiana each year?
+10
+If you froze all the freshwater (include all sources, not just surface lakes, ponds, etc.) on Earth into an ice cube, what would the side length of the cube be in meters?
+5
+Directly after worldwide release, how many seconds did J.K. Rowling have to wait until she sold enough copies of Harry Potter and the Deathly Hallows to be able to stack them to the International Space Station?
+5
+How many seconds would it take your voice to travel the equivalent distance from the Earth’s surface to the moon?
+6
+Intel 4004 was the first ever commercially produced microprocessor. How many times more transistors are on the new Apple M2 chip, compared to the Intel 4004 chip?
+7
+How many times hotter is the hottest capsaicinoid compared to the hottest jalapeno peppers, on the scoville scale?
+6
+How many days would it take to watch all of Netflix (assume Netflix US)?
+3
+How many megabytes of data would it take to stream all of Netflix (assume Netflix US) in HD?
+8
+On average, how many hours would it take for you to listen to all of the songs Spotify adds to its collection in a single day?
+3
+How many Kahoot sets have been created since the inception of the site?
+8
+Across all Wikipedia articles, how many hyperlinks are there to the “United States” Wikipedia page?
+5
+What is the global bubble tea market value, in New Taiwan Dollars?
+11
+How many miles do all NYC taxi cabs drive in a day, cumulatively?
+6
+How many windows are in NYC?
+8
+In 2022, how many shells were set off for “Macy’s 4th of July Fireworks” celebration?
+4
+How many genes does a fruit fly have?
+4
+How many molecules of sugar are there in a 12 oz. Mexican Coca Cola bottle?
+23
+Assuming that an iPhone 14 has a 3000 mAh battery that is rated at 3.7 volts, how many more kilograms does an iPhone 14 weigh when fully charged, compared to when its battery is completely empty, all else equal?
+-13
+What is 3^3^3?
+13
+What is the ten millionth prime number?
+8
+During the 2019 Super Bowl, how many seconds were spent by consumers watching Super Bowl ads on YouTube?
+9
+Since the beginning of the American Music Awards, of all of the “Artist of the Year” winners, how many times has the letter “A” appeared (First and Last Names both count)? Example: Camila Cabello has the letter “A” 3 times.
+1
+How long would it take, in hours, to drive to Jupiter assuming it was a straight path and the person never had to stop in hours?
+7
+How much would it cost in US dollars to treat someone with Zynteglo, an FDA approved gene therapy drug to treat beta thalassemia?
+6
+How many times was COVID, COVID-19, or coronavirus mentioned in 2022 on Reddit?
+8
+How many rolls of toilet paper would fit inside Buckingham Palace assuming Buckingham Palace were a box and the toilet paper left no gaps between rolls (the tube hole still exists)?
+8
+What is the number of oxygen atoms in the carbonation of a can of Coca-Cola?
+23
+How much caffeine does the average college student consume per day in picograms?
+11
+If I search “foreign” in PubMed, a medical journal database, how many results show up?
+5
+If I planted an avocado pit and tended to it, assuming it could grow infinitely large, how long would it take to grow to the height of the General Sherman Tree in days?
+2
+During an Ironman marathon, the average male marathoner burns how many calories in terms of the number of avocado toast servings?
+1
+If all students on UM’s Ann Arbor campus shouted, how loud would the sound be equivalent to the sound produced in decibels?
+2
+How long, in seconds, would it take a golf ball hit by a professional golfer with a five-iron on average to travel the Nile River assuming it was a straight path and the golf ball traveled straight along the path?
+5
+In 2019, how many passengers went through Detroit Metropolitan Wayne County Airport (DTW)?
+7
+If Oscars were made of solid gold and all of the Oscars ever awarded were melted, how much in value would it be in US dollars?
+9
+If I collected all of the Classic Monopoly games made from 2008 to 2015, how many Monopoly dollars would I have?
+13
+How many 13-in MacBook Pros would it take to weigh the same amount as a USPS delivery van?
+4
+How many new pieces of malware are detected each day all over the world?
+6
+How many different species of frogs are known to live in the Amazon rainforest?
+3
+How many pounds of fireworks are purchased each year by the general public (not for professional shows)?
+8
+In the 2022 Winter Olympic and Paralympic Games, how many medals were awarded?
+3
+Given a loaf of white Wonder Bread, how many carbon atoms make up the sugar content assuming all of the sugars are glucose?
+24
+What is the mass of everything in the asteroid belt in kilograms?
+21
+Assuming the Great Pacific Garbage Patch was made out of recyclable plastic and diverted to U.S. recycling facilities, how much of that plastic would end up in landfills in pounds?
+7
+Assuming an adult Black Iberian Pig was made of pure Plutonium-239, how long would it take to decompose naturally with its half life to the mass of an American penny in years?
+5
+In the first 24 hours of release, how many streams did Taylor Swift’s album “Midnights” get worldwide?
+8
+How many physical Christmas holiday cards are sent annually across the world?
+9
+How many rotisserie chickens did Costco sell in 2021?
+8
+An iPhone 6 is able to perform how many computer instructions per second?
+9
