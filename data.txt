@@ -1,0 +1,86 @@
+How many piano tuners are there in Chicago?
+2
+What is pi to the power of 9?
+4
+How many pounds of rice were consumed by people living in the U.S. last year?
+10
+How many board game dice does it take to equal the mass of the average human?
+4
+What number of tennis balls would you have to lay on the surface area of an Olympic-sized swimming pool in order to fully cover it?
+5
+How much trash (in pounds) does the average family produce in a year?
+3
+What volume of air (in Liters) do you breathe in one day?
+3
+How many hairs are on the average human head (that actually has hair!)
+5
+If we could brew coffee in swimming pools, how many pools would we need to satisfy the need in the U.S. on a given day?
+2
+How many pennies would it take to make a stack the height of the Empire State Building?
+5
+How many red blood cells does one person have?
+13
+How many atoms are in one human?
+28
+What is the surface area of the average human's skin in km^2?
+-9
+How many cases of fraud and identity theft are there per year in the United States, as reported by the US Federal Trade Commission?
+7
+How many pinapples weight 1 ton?
+3
+How many times more would a 50 foot tall pine tree weigh compared to an apple?
+4
+By IRS estimates, what percentage of people that evade taxes in some form get caught and convicted for doing so?
+-2
+How many individuals are incarcerated in prison at any given point in the US?
+6
+What is the annual cost in USD of incarcerating one person for one year in NYC?
+6
+How much would a cubic meter of dirt weigh, in milligrams?
+9
+How many prisoners break out of State or Federal prisons each year?
+3
+How many gallons of air are breathed in with one breath at rest?
+-1
+How many grass blades are in contact with one foot stepping on grass?
+3
+How many gigameters are between NYC and Paris?
+-2
+How many ways are there to make change for a dollar?
+2
+What is 43^29?
+47
+Given: log(e) = .4342944. What is 10,000 factorial?
+35659
+What is the 250th fibonacci number divided by the 50th fibonacci number?
+42
+What is 10^(10^(10^(10^-100)))?
+10
+How many cans of SpaghettiOs does it take to have enough letters to rewrite the entire Lord of the Rings trilogy?
+4
+If I can read a book a day, how many picoseconds would it take for me to read every book that has ever been published?
+25
+How many languages are currently spoken in the world?
+4
+If you guess the same valid Wordle word every single day (assuming all valid words occur in equal frequency and can repeat), how many centuries would it take until you have a >50% chance of getting a Wordle in one?
+-2
+How long, in light-feet, has the earth existed for?
+26
+How large is the surface area of the United States in Barns (unit, not building)?
+41
+In the duration of the Black Plague pandemic, how many humans died per year globally?
+7
+The cubit is the first known unit of length used by ancient humans, while the Planck units were very recent, first originating in 1899. How many Planck lengths long is one typical cubit?
+34
+How many years ago did Homo sapiens originate?
+5
+How many molecules of ATP are used by an average adult over the period of a fortnight?
+27
+If earth is replaced by an equivalent mass of swiss cheese, what is the new acceleration due to gravity (g)?
+0
+If all of the energy from a type Ia supernova was pumped into the ice in Antarctica, what would be the final temperature of the ice in Kelvin?
+21
+How many milligrams of nitrogen are biologically fixed every year?
+17
+The probability of winning the Powerball lotto is 1/292,201,338 per play. How many dollars would you have to spend to buy enough tickets so that you are more likely to have won the powerball 10 times in a row than to not have won 10 times in a row?
+85
