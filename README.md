@@ -37,7 +37,7 @@ How does scoring work?
 
 Facts about this site?
 
-- 188 questions to practice on
+- 322 questions to practice on
   - Questions pulled from a variety of sources, mainly past science olympiad tests
 - Answers can be negative, positive, or zero
 - Features based off the Science Olympiad version of Fermi Questions:
