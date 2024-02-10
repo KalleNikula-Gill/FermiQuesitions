@@ -26,6 +26,9 @@ function loadData() {
 function getInput() {
     document.getElementById("answeredFraction").innerText = Math.min(currentQuestion+1,numQuestions).toString() + "/" + numQuestions.toString() + " questions answered";
     var input = document.getElementById("quantity").value;
+    if (input == '') {
+        input = 0;
+    }
     if (currentQuestion < numQuestions) {
         var correctAnswer = parseInt(q_and_a[currentQuestion][1])
         if (Math.abs(input - correctAnswer) == 2) {
