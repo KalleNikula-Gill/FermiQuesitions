@@ -594,8 +594,7 @@ What is the weight of the Great Pyramid of Giza, in pounds?
 10
 What is the wavelength of the lowest-pitched audible sounds to humans in room-temperature sea-level air, measured in furlongs?
 -1
-What is total hours of television watched in the US
-every day?
+What is total hours of television watched in the US every day?
 12
 What is the number of grains of sand on Earth divided by the number of stars in the Milky Way?
 8
