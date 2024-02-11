@@ -3,6 +3,21 @@ var currentQuestion = 0;
 var numQuestions = 0;
 var questions_and_answers = [];
 var q_and_a = []
+var highscore = 0;
+
+function setHighscore(highscore) {
+    document.cookie =  "highscore=" + highscore + "; expires=1 Jan 2030 01:01:01";
+}
+
+function getHighscore() {
+    var decoded = decodeURIComponent(document.cookie);
+    if (decoded == "") {
+        return "";
+    }
+    else {
+        return decoded.substring(10);
+    }
+}
 
 function loadData() {
     fetch("data.txt")
@@ -19,6 +34,13 @@ function loadData() {
             .map(({ value }) => value)
         numQuestions = q_and_a.length
         document.getElementById("answeredFraction").innerText = "0/" + numQuestions.toString() + " questions answered";
+        if (getHighscore()!="") {
+            highscore=getHighscore();
+        }
+        else {
+            setHighscore(0);
+        }
+        document.getElementById("highscore").innerText = "Highscore: " + highscore;
         setQuestion();
     })
 }
@@ -54,6 +76,11 @@ function getInput() {
             document.getElementById("scoreDescription").innerText = "+0 (You guessed " + input.toString() + " and the correct answer was " + correctAnswer.toString() + ")";
             document.getElementById("scoreDescription").style.color = "red";
         }
+    }
+    if (currentScore > highscore) {
+        highscore = currentScore;
+        setHighscore(currentScore);
+        document.getElementById("highscore").innerText = "Highscore: " + highscore;
     }
     currentQuestion+=1;
     setQuestion();
