@@ -10,13 +10,19 @@ function setHighscore(highscore) {
 }
 
 function getHighscore() {
-    var decoded = decodeURIComponent(document.cookie);
-    if (decoded == "") {
+    var Cookies = document.cookie.split(';');
+    if (Cookies.length==0) {
         return "";
     }
-    else {
-        return decoded.substring(10);
+    for (var i = 0; i < Cookies.length; i++) {
+        if (Cookies[i].substring(0,10)=="highscore=") {
+            return Cookies[i].substring(10);
+        }
+        else {
+            document.cookie = Cookies[i] + "=; expires="+ new Date(0).toUTCString();
+        }
     }
+    return 0;
 }
 
 function loadData() {
